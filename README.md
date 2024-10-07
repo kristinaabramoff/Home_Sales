@@ -24,6 +24,19 @@ The analysis addresses the following key questions:
 3. **Average Price of Homes Built Each Year with Three Bedrooms, Three Bathrooms, Two Floors, and ≥ 2,000 Sq. Ft.**: Rounded to two decimal places.
 4. **Average Price of Homes per "View" Rating with an Average Price ≥ $350,000**: Rounded to two decimal places, with runtime included.
 
+## Example code output
+
+Read in the AWS S3 bucket into a dataframe
+
+
+![aws_s3bucket_df](https://github.com/user-attachments/assets/9edf55cd-5db0-4ab8-9b28-6f3fe19ef473)
+
+Average Price of Homes Built Each Year with Three Bedrooms, Three Bathrooms, Two Floors, and ≥ 2,000 Sq. Ft.
+
+![avg_price_3_bd_3bath](https://github.com/user-attachments/assets/f3e8ce68-de79-4b03-8e99-0bd388d10212)
+
+
+
 ## Technologies and Tools Used
 - **Python**
 - **Apache Spark (PySpark)**
